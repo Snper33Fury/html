@@ -259,20 +259,20 @@ Diseñamos el layout.
 ## CSS Layouts
 Lo que hacen los frameworks es establecer una row class; es decir, una fila que organiza en la interfaz la info.
 Esto se realiza mediante las class. Dentro de las class tienes: row y col; asi mismo, dentro de col tienes col-left y col-right, de columnas y su asignación en el espacio.
-![Pasted image 20260515120833.png](/img/user/Im%C3%A1genes/Pasted%20image%2020260515120833.png)
+![Layout1.png](/img/user/Im%C3%A1genes/Layout1.png)
 
 Por más que pongamos código esto no va a cambiar, para ello se necesita hacer styling en CSS con la finalidad de cambiar el aspecto de la interfaz.
 Para ello podemos hacer styling directamente en la página desde la parte del principio. Para estilar el row hay que poner {}, así es en CSS y para indicar que es una class se pone .row.
 
-![Pasted image 20260515132634.png](/img/user/Im%C3%A1genes/Pasted%20image%2020260515132634.png)
+![LAyout2.png](/img/user/Im%C3%A1genes/LAyout2.png)
  
- Añadimos padding. ![Pasted image 20260515132838.png](/img/user/Im%C3%A1genes/Pasted%20image%2020260515132838.png)
+ Añadimos padding. ![Padding.png](/img/user/Im%C3%A1genes/Padding.png)
 
 ## Flexbox Model
-![Pasted image 20260515133235.png](/img/user/Im%C3%A1genes/Pasted%20image%2020260515133235.png)
-![Pasted image 20260515133606.png](/img/user/Im%C3%A1genes/Pasted%20image%2020260515133606.png)
+![Flex1.png](/img/user/Im%C3%A1genes/Flex1.png)
+![Flex2.png](/img/user/Im%C3%A1genes/Flex2.png)
 
 ## Complex Components
-![Pasted image 20260515135009.png](/img/user/Im%C3%A1genes/Pasted%20image%2020260515135009.png)
+![Complex.png](/img/user/Im%C3%A1genes/Complex.png)
 
 
